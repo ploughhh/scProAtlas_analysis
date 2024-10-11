@@ -1,2 +1,2 @@
 # scProAtlas_analysis
-Data analysis manuscript for all module.
+Codes for all analysis modules in scProAtlas. Here, we provide the example using SCP_CODEX1 - Large intestine. The codes include all the scripts used for the entire workflow, from image segmentation to scRNA-spatial proteomics integration, and spatial analysis.
